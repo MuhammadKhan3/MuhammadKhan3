@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Pointing Sale Software**
 
-- 🌱 I’m currently learning **Artifical Intelligence**
+- 🌱 I’m currently learning **New Technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
