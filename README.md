@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadkhan3&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadkhan3" /> </p>
 
-- 🔭 I’m currently working on **Pointing Sale Software**
+- 🔭 I’m currently working on **Restaurant Management System or Google Chrome Extensions**
 
 - 🌱 I’m currently learning **New Technologies**
 
